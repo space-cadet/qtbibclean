@@ -1,0 +1,9 @@
+README.txt
+setup.py
+pyinspire/__init__.py
+pyinspire/pyinspire.py
+pyinspire.egg-info/PKG-INFO
+pyinspire.egg-info/SOURCES.txt
+pyinspire.egg-info/dependency_links.txt
+pyinspire.egg-info/requires.txt
+pyinspire.egg-info/top_level.txt
